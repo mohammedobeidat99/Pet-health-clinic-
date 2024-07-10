@@ -1,0 +1,101 @@
+{
+    "info":"User Information",
+    "location":"Location",
+    "email":"Email",
+    "phone":"Phone",
+    "signout":"sign out",
+    "signout_text":"We hope you come back again",
+    "history":" Order",
+    "history_text":"All orders are here. Thank you for trusting us",
+
+
+    "home":"Home",
+    "search":"Search",
+    "store":"Store",
+    "cart":"Cart",
+    "booking":"Booking Vet",
+    "profile" :"Profile",
+
+    "hey":"Hey",
+    "pet":"My Pets",
+    "loc1":"Irbid Location",
+    "loc2":"Amman Location",
+    "track":"Track Location",
+    "recommendation":"Recommendation",
+    "rectitele":"Look at the recommendations that doctors give for your pet.",
+
+
+    "pet_title":"Pet recommendationS",
+    "vaccinations": "Vaccinations",
+    "vaccinations_text":"Keeping your pet up-to-date with necessary vaccinations is crucial for their overall health and well-being. Vaccinations help prevent various infectious diseases that can be potentially life-threatening to your pet. By ensuring that your pet receives timely vaccinations, you provide them with essential immunity against common diseases such as rabies, distemper, parvovirus, and more. Additionally, regular vaccinations not only protect your pet but also contribute to the prevention of spreading contagious diseases within the pet community. Consulting with your veterinarian about the appropriate vaccination schedule for your pet based on their age, health status, lifestyle, and local disease prevalence is essential to maintain their optimal health.",
+    
+    "healthy":"Healthy Foods",
+    "healthy_text":"Feeding your pet a balanced diet tailored to their specific needs is crucial for their overall health and well-being. A balanced diet should include a mix of proteins, carbohydrates, fats, vitamins, and minerals in appropriate proportions. Consider factors such as your pet's age, size, and breed when selecting their food, as nutritional requirements vary between different life stages and breeds. Consulting with a veterinarian can help determine the most suitable diet for your pet, ensuring they receive the necessary nutrients to support growth, energy levels, and immune function, ultimately promoting longevity and vitality. Regularly monitoring your pet's weight and adjusting their diet accordingly can help prevent obesity and related health issues. Additionally, providing access to fresh water at all times is essential to maintain hydration and aid digestion.",
+
+
+    "regular":"Regular Treatment",
+    "regular_text":"Administering regular treatments for preventing fleas, ticks, and other parasites is crucial for maintaining your pet's health. Fleas, ticks, and parasites not only cause discomfort but can also transmit diseases to your pet. Utilizing preventative treatments such as topical solutions, oral medications, or collars helps to effectively repel and eliminate these pests. Consistency is key, as parasites can quickly infest your pet and their environment. Consult your veterinarian for the most suitable prevention methods based on your pet's species, size, and lifestyle, ensuring a proactive approach to parasite control and safeguarding your pet's well-being.",
+
+
+    "hygiene":"Hygiene Practices",
+    "hygiene_text":"Maintaining proper hygiene for your pet involves regular bathing to keep their fur clean and free from dirt, oils, and parasites. Use pet-friendly shampoos and follow bathing schedules appropriate for your pet's breed and activity level. Additionally, cleaning their living areas, such as bedding, crates, litter boxes, and toys, is essential to prevent the buildup of bacteria, mold, and odors. Regular cleaning helps create a healthier environment for your pet, reducing the risk of infections and promoting their overall well-being. Be sure to use safe cleaning products suitable for pets and maintain a consistent cleaning routine to ensure a hygienic living space for your furry friend.",
+
+    "addpet":"Add Pet",
+    "no1":"Please enter the pet name.",
+    "namepet":"Pet Name",
+
+    
+    "save":"Save",
+    "editname":"Change Name ",
+    "editprofile":"Edit Profile",
+    "editimage":"Change Photo",
+    "cancel":"Cancel",
+
+    "loading":"Loading..",
+
+    "food":"Food",
+    "games":"Games",
+    "accessories":"Accessories",
+    "other":"Other Prodact",
+    "recfood":"Recomended Food",
+    "check":"Check Reatil Stores",
+    "certied":"Certied",
+    "addcart":"Add Cart",
+    "store":"Store",
+    "search":"Search...",
+
+    "next":"Next",
+    "family":" Here family pethealth wish you a happy day",
+    "welcome":"Hey! Welcome",
+    "username":"Username",
+    
+    "password":"Password",
+    "forget":"Forgot Password?",
+   "signin":"Sign in",
+   "dont":"Don't have an account? ",
+   "regster":"Register here",
+   "or":"or sign in with",
+   "google":"Sign in with Google",
+   "facebook":"Sign in with Facebook",
+
+   "sginup":"Signup",
+   "number":"Number",
+   "confarm":"Confirm Password",
+   "amman":"Amman",
+   "irbid":"Irbid",
+   "other":"Other",
+   "entercity":"Enter City",
+    "already":"I already have an account? ",
+    "successfully":"Account successfully created",
+    "login":"Login"
+
+   
+
+
+
+
+
+
+
+
+}

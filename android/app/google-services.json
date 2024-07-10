@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687393213225",
+    "project_id": "pethealth-547d1",
+    "storage_bucket": "pethealth-547d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687393213225:android:ef433d3474c586f0844538",
+        "android_client_info": {
+          "package_name": "com.example.pethhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPVPsqFkDewe0bVgF9bYV4acXDlRQLk5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
